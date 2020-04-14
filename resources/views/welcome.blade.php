@@ -78,7 +78,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    21云盒子 Laravel 样例
                 </div>
 
                 <div class="links">
